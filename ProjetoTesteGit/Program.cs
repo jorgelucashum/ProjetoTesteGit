@@ -22,6 +22,7 @@ namespace ProjetoTesteGit
             // 'git log --oneline' : Mostra os commits resumidos
             // 'git clean -df' : Comando para descartar as modificações e voltar pro último commit feito (1/2).
             // 'git checkout -- .' : Comando para descartar as modificações e voltar pro último commit feito (2/2).
+            // 'git checkout código do commit/nome do branch' : Comando para navegar entre os commits
 
             Console.WriteLine("Hello World");
             Console.WriteLine("bom dia");
