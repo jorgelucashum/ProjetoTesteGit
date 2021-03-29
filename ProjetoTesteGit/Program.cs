@@ -28,6 +28,7 @@ namespace ProjetoTesteGit
             // 'git push -u apelidoDoRep nomeDaBranch' : Dá um push para o repositório remoto pela primeira vez.
             // 'git push' : Dá um 'push' no branch master para o repositório remoto.
             // 'git clone https://linkDoRepGit.com' : Clona o repositório remoto junto com seu histórico de commits. (Baixar o arquivo diretamente do github não traz os seus commits).
+            // 'git pull origin master' : Sincroniza/atualiza o repositório remoto com o local.
 
             Console.WriteLine("Hello World");
             Console.WriteLine("bom dia");
