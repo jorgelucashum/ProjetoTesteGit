@@ -23,6 +23,10 @@ namespace ProjetoTesteGit
             // 'git clean -df' : Comando para descartar as modificações e voltar pro último commit feito (1/2).
             // 'git checkout -- .' : Comando para descartar as modificações e voltar pro último commit feito (2/2).
             // 'git checkout código do commit/nome do branch' : Comando para navegar entre os commits
+            // 'git remote add apelidoDoRep https://linkdogit.com' : Associar repositório local (git) com o remoto (github).
+            // 'git remote set-url nomeDoRep https://linkdogit.com' : Associar um repositório local a um outro repositório remoto, porém mantendo o mesmo apelido.
+            // 'git push -u apelidoDoRep nomeDaBranch' : Dá um push para o repositório remoto pela primeira vez.
+            // 'git push' : Dá um 'push' no branch master para o repositório remoto.
 
             Console.WriteLine("Hello World");
             Console.WriteLine("bom dia");
